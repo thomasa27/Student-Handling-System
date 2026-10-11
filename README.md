@@ -115,4 +115,4 @@ Since the file is comma-separated, avoid commas inside names.
 
 ## Author
 
-Thomas A. ([@thomasa27](https://github.com/thomasa27))
+Thomas Alpos ([@thomasa27](https://github.com/thomasa27))
