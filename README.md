@@ -106,13 +106,6 @@ Professor,<ID>,<name>,<gender>,<specialization>
 
 Since the file is comma-separated, avoid commas inside names.
 
-## Possible Improvements
-
-- Enrolling students in courses and assigning courses to professors from the menu
-- Real email sending instead of the simulation
-- Escaping/quoting in the CSV format
-- Unit tests and a build system (Makefile or CMake)
-
 ## Author
 
 Thomas Alpos ([@thomasa27](https://github.com/thomasa27))
